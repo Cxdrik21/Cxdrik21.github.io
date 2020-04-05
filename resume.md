@@ -1,11 +1,12 @@
 # Cedrik Pearson - Geospatial/IT Professional
-### **University of Washington - Seattle IT**
+### University of Washington - Seattle IT
 ![University of Washington Quad](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/16102313/aerial-quad-TILE.jpg)
-- [cedrikpearson@gmail.com](mailto:cedrikpearson@gmail.com)
-- [crp21@uw.edu](mailto:crp21@uw.edu)
-- [cedrik.pearson@seattle.gov](mailto:cedrik.pearson@seattle.gov)
+### Contact
+ [cedrikpearson@gmail.com](mailto:cedrikpearson@gmail.com) | [crp21@uw.edu](mailto:crp21@uw.edu) |  [cedrik.pearson@seattle.gov](mailto:cedrik.pearson@seattle.gov)
+### Portfolio
+Examples of past GIS projects can be found [here.](http://students.washington.edu/crp21/resume/PortfolioFile.html)
 
-### **Key Skills**
+### Key Skills
 
 | ArcGIS Enterprise Software (SDE) | ArcGIS Online Suite |
 | :----------------------------| :-----------------|
@@ -13,7 +14,7 @@
 | ArcGIS Pro | R |
 | Python | HTML/CSS |
 
-### **Experience**
+### Experience
 
 ##### Information Technology Department, City of Seattle, Washington.
  _GIS Analyst Intern, April 2019-Present_
@@ -29,7 +30,7 @@ _Assistant Manager, July 2014 – September 2017_
 - Provided high quality and consistent in-person and telephone customer service including coordination of multiple phone lines.
 - Conducted new employee orientation, reviewed inventory and purchased equipment and product with business expense card.
 
-### **Education and Accomplishments**
+### Education and Accomplishments
 - Bachelor of Arts, Geography (Honors) with emphasis in GIS/Information Tech, 3.73 GPA, University of Washington, Seattle campus, expected graduation, June 2020.
 - Relevant coursework/projects:
 
