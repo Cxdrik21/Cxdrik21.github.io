@@ -1,8 +1,9 @@
-# Cedrik Pearson - GIS
+# Cedrik Pearson - Geospatial/IT Professional
+### **University of Washington - Seattle IT**
 ![University of Washington Quad](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/16102313/aerial-quad-TILE.jpg)
-- cedrikpearson@gmail.com
-- crp21@uw.edu
-- cedrik.pearson@seattle.gov
+- [cedrikpearson@gmail.com](mailto:cedrikpearson@gmail.com)
+- [crp21@uw.edu](mailto:crp21@uw.edu)
+- [cedrik.pearson@seattle.gov](mailto:cedrik.pearson@seattle.gov)
 
 ### **Key Skills**
 
@@ -32,6 +33,8 @@ _Assistant Manager, July 2014 – September 2017_
 - Bachelor of Arts, Geography (Honors) with emphasis in GIS/Information Tech, 3.73 GPA, University of Washington, Seattle campus, expected graduation, June 2020.
 - Relevant coursework/projects:
 
- - GIS Database Programming: Introduction to open source database management software, namely PostgreSQL, and geoJSON web-mapping. Principles of database design were also covered. 
- - GIS & Resource Management: Introduction to ESRI ArcMap software and tools. Used to create maps displaying the decline of Mt. Rainier’s glaciers from 1970-2008 and analyzed other factors in order to make predictions about future change.
- - GIS and Mapping: Learned various GIS skills culminating in final project that used spatial analysis methods to perform a new franchise business site selection in conformance with specified criteria.
+  >**GIS Database Programming:** Introduction to open source database management software, namely PostgreSQL, and geoJSON web-mapping. Principles of database design were also covered.
+
+  >**GIS & Resource Management:** Introduction to ESRI ArcMap software and tools. Used to create maps displaying the decline of Mt. Rainier’s glaciers from 1970-2008 and analyzed other factors in order to make predictions about future change.
+
+  >**GIS and Mapping:** Learned various GIS skills culminating in final project that used spatial analysis methods to perform a new franchise business site selection in conformance with specified criteria.
