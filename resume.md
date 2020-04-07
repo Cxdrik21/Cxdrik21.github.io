@@ -1,7 +1,7 @@
 # Cedrik Pearson - Geospatial/IT Professional
 ### University of Washington - Seattle IT
 ![University of Washington Quad](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/09/16102313/aerial-quad-TILE.jpg)
-### Contact
+### Contact Info
  [cedrikpearson@gmail.com](mailto:cedrikpearson@gmail.com) | [crp21@uw.edu](mailto:crp21@uw.edu) |  [cedrik.pearson@seattle.gov](mailto:cedrik.pearson@seattle.gov)
 ### Portfolio
 Examples of past GIS projects can be found [here.](http://students.washington.edu/crp21/resume/PortfolioFile.html)
