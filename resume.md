@@ -22,7 +22,7 @@ Examples of past GIS projects can be found [here.](http://students.washington.ed
  - Gained valuable experience in project management, overseeing and participating in projects from start to finish, beginning with planning and database creation, working through multiple stages of development, to post-production customer support.
 
 ##### University of Washington Botanic Gardens, Seattle, Washington
- _Volunteer Data Collector_
+ _Volunteer Data Collector, March 2018 - June 2018_
  - Utilized Total Station surveying equipment to accurately triangulate locations of individual plant specimens at the Washington Park Arboretum for subsequent geo-referencing into a mobile mapping application.
 
 ##### Total Sports LLC. Buckley, Washington
